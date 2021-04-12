@@ -9,3 +9,5 @@ Things to change before competition:
 4. write what you did on line 776, just to double check
 
 Or, if you want, you can make them separate programs, but I don't think there are enough slots to hold every condition. 
+
+Refrence: https://github.com/cmwade/Caldwell-2020/blob/master/Caldwell-2020-Code/src/odom.cpp. You can also copy their method of choosing the auton program through the controller. 
